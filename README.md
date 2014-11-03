@@ -1,13 +1,12 @@
-# sse-chat-poster [![Build Status](https://secure.travis-ci.org/mykola/sse-chat-poster.png?branch=master)](http://travis-ci.org/mykola/sse-chat-poster)
+# sse-chat-poster 
 
-The best project ever.
+Набор спизженных цитат от философибота
 
 ## Getting Started
 Install the module with: `npm install sse-chat-poster`
 
 ```javascript
-var sse_chat_poster = require('sse-chat-poster');
-sse_chat_poster.awesome(); // "awesome"
+throw "Never use this shit"; 
 ```
 
 ## Documentation
@@ -24,4 +23,4 @@ _(Nothing yet)_
 
 ## License
 Copyright (c) 2014 Nickolay (mykola) Kharchevin  
-Licensed under the MIT license.
+Licensed under the WTFPL license.
